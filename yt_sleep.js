@@ -2,7 +2,7 @@
 // will pause a youtube video after 'timeout' miuntes
 
 // timeout in minutes
-timeout = 1;
+timeout = 120;
 
 // uncomment this if you want to be sure the script started
 // i tend to be paranoid since the touchpad on my laptop is unreliable
