@@ -6,7 +6,7 @@ timeout = 1;
 
 // uncomment this if you want to be sure the script started
 // i tend to be paranoid since the touchpad on my laptop is unreliable
-alert(`Setting ${timeout} minute timeout`);
+//alert(`Setting ${timeout} minute timeout`);
 
 // after the timeout ran out, find whatever player there is
 // and pause it. this works on autoplay and even when
